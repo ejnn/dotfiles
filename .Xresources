@@ -1,0 +1,4 @@
+URxvt.font: xft:Source Code Pro:size=16
+URxvt.boldFont: xft:Source Code Pro:size=16:style=Semibold
+URxvt.scrollBar: false
+URXvt.transparent: true
