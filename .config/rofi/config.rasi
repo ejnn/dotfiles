@@ -1,4 +1,4 @@
 configuration {
-	font: "Source Code Pro 12";
+	font: "Source Code Pro 14";
 	theme: "~/.cache/wal/colors-rofi-dark.rasi";
 }

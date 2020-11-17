@@ -5,6 +5,8 @@ exec_always --no-startup-id xset -dpms
 exec_always --no-startup-id /home/jorj/.config/wpg/wp_init.sh
 exec_always --no-startup-id picom --blur-method kawase --backend glx --corner-radius 15 --blur-strength 3
 exec_always --no-startup-id emacs --daemon
+exec_always --no-startup-id setxkbmap -layout us,br
+exec_always --no-startup-id setxkbmap -option "grp:alt_shift_toggle"
 #exec_always --no-startup-id xbanish
 #exec_always --no-startup-id redshift -l -23.5:-46.5 -t 6500:3500 -m randr -v
 #exec dropbox start
